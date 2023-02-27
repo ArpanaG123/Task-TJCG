@@ -1,0 +1,166 @@
+.left-navigation{
+    margin-left:-81%;
+    color: white;
+    font-size: 20px;
+    margin-bottom:3%;
+    font-weight: bold;
+}
+
+.navigation-bar{
+    background-color: #4E6E81;
+    padding-top:20px;
+}
+
+.right-navigation{
+    display: flex;
+    margin-left:40%;
+    gap: 10%;
+    margin-top:-6%;
+    color: white;
+    font-size:15px;
+}
+
+input{
+    height:30px;
+    width:250px;
+}
+
+.sidebar{
+    margin-left: -85%;
+    line-height:200%;
+}
+
+.nameField{
+    position: absolute;
+    top:16%;
+    left:20%;
+}
+
+.namebox{
+    position: absolute;
+    top:20%;
+    left:20%;
+    width: 1000px;
+    height:20px;
+}
+
+.emailField{
+    position: absolute;
+    top:28%;
+    left:20%;
+}
+
+.emailbox{
+    position: absolute;
+    top:32%;
+    left:20%;
+    width: 1000px;
+    height:20px;
+}
+
+.addressField{
+    position: absolute;
+    top:40%;
+    left:20%;
+}
+
+.streetField{
+    position: absolute;
+    top:45%;
+    left:20%;
+}
+
+.streetlbox{
+    position: absolute;
+    top:48%;
+    left:20%;
+    width: 1000px;
+    height:20px;
+}
+
+.optField{
+    position: absolute;
+    top:55%;
+    left:20%;
+}
+
+.optlbox{
+    position: absolute;
+    top:58%;
+    left:20%;
+    width: 1000px;
+    height:20px;
+}
+
+.cityField{
+    position: absolute;
+    top:65%;
+    left:20%;
+
+}
+
+.citybox{
+    position: absolute;
+    top:68%;
+    left:20%;
+    width: 1000px;
+    height:20px;
+}
+
+.stateField{
+    position: absolute;
+    top:76%;
+    left:20%;
+}
+
+.statebox{
+    position: absolute;
+    top:80%;
+    left:20%;
+    width: 1000px;
+    height:20px;
+
+}
+
+.countryField{
+    position: absolute;
+    top:88%;
+    left:20%;
+}
+
+.countrybox{
+    position: absolute;
+    top:92%;
+    left:20%;
+    height: 30px;
+}
+
+.platbox{
+    position: absolute;
+    top:100%;
+    left:20%;
+    width: 1000px;
+    height:30px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.bottoms{
+    position: absolute;
+    bottom:-20%;
+    left: 80%;
+}
+
+.discButton{
+    margin-right: 20px;
+    height: 30px;
+    background-color: #BDCDD6;
+    border: none;
+}
+
+.saveButons{
+    height: 30px;
+    background-color: lightskyblue;
+    color: white;
+    border: none;
+}
